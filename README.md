@@ -7,3 +7,5 @@
     - $y'' = z'=\ - p / m * z - k / m * y = f(y,z)$
 - Then we apply the method to each of the equations
 - Finally, we create a plot using matplotlib.
+
+![image](https://user-images.githubusercontent.com/58353454/174490643-6f8401c1-39d2-4b02-9cbc-9d4a60533298.png)
